@@ -1,2 +1,15 @@
+npm_modules
+bower_components
+trash
+Error.log
+.DS_Store
 .sass-cache
-*.css.map
+.tmp
+.rvmrc
+.trashes
+*~
+
+# Optional things
+*.sublime-project
+*.sublime-workspace
+sftp-config.json
