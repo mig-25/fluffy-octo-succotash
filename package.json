@@ -1,0 +1,26 @@
+{
+  "name": "lost-grid-demo",
+  "version": "1.0.0",
+  "description": "Testing purpose only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mig-25/fluffy-octo-succotash.git"
+  },
+  "author": "Sohail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mig-25/fluffy-octo-succotash/issues"
+  },
+  "homepage": "https://github.com/mig-25/fluffy-octo-succotash#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.0.3",
+    "gulp": "^3.9.0",
+    "gulp-postcss": "^6.0.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "lost": "^6.6.2"
+  }
+}
